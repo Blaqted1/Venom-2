@@ -5,10 +5,10 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "916909137213"
-global.ownername = "David Cyril"
+global.ownername = "D General"
 global.ytname = "David Cyril"
-global.socialm = "GitHub: DeeCeeXxx"
-global.location = "Africa, Nigeria, Lagos"
+global.socialm = "GitHub: Blaqted1"
+global.location = "Africa, Nigeria, Rivers state"
 
 global.ownernumber = '2347043759577,2349066528353,254782572110'  //creator number
 global.ownername = 'David Cyril' //owner name
